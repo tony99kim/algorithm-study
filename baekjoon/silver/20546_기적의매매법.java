@@ -30,10 +30,10 @@ class Main {
     int smstock=0;
 
     for(int i=0; i<14; i++){
-    if(3일연속 오를떄){
+    if(){
 
     }
-    if(3일연속 내릴떄){
+    if(){
 
     }
     }
